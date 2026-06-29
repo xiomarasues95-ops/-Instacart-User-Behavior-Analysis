@@ -77,5 +77,3 @@ Visualizaciones y métricas para responder preguntas clave sobre comportamiento 
 El análisis revela que los usuarios de Instacart prefieren comprar en la primera mitad del día y los primeros días de la semana, con una marcada preferencia por productos orgánicos frescos. La alta tasa de clientes con un solo pedido representa el principal reto de retención, mientras que la lealtad hacia productos específicos ofrece una oportunidad estratégica para fortalecer el catálogo y las campañas de marketing.
 
 ---
-
-## 📁 Estructura del Proyecto
